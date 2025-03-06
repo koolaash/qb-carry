@@ -9,7 +9,6 @@ description '3in1'
 version '1.0.0'
 
 client_script {
-    'cl_antivdm',
     'cl_carry.lua',
   }
 server_script {
